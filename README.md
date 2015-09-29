@@ -6,4 +6,5 @@ This project walkthrough is from: https://guides.github.com/activities/hello-wor
 
 Enjoy thyself.
 
-# hello-world
+This is Tanuj. Tanuj likes Python and C++.
+His biological makeup is probably 90% human and 10% gazelle.
